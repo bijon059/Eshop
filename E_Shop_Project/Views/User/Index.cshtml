@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<h2>Welcome To Online Atm Machine Service</h2>
+
+<p>If new Then Register First</p><button class="btn btn-info">@Html.ActionLink("Registration", "New", "User")</button>
+
+<p>Have A Account</p><button class="btn btn-info">@Html.ActionLink("Log In", "LogIn", "User")</button>
+    

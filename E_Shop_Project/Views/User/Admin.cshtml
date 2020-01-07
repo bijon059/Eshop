@@ -1,0 +1,47 @@
+﻿@model E_Shop_Project.ViewModels.ProductFormViewModel
+@{
+    ViewBag.Title = "Admin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Admin</h2>
+
+<h3>@Model.User.Name</h3>
+<h4>@Model.User.UserCategories.Name</h4>
+
+<h4>@Model.User.Address</h4>
+
+<button> @Html.ActionLink("Add Product", "AddProduct", "Product", new {name = Model.User.Name},null)</button>
+
+<hr/>
+
+<table class="table table-bordered table-hover">
+
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Category</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var product in Model.Product)
+    {
+        <tr class="col-md-12">
+            <td>
+                @product.Name
+            </td>
+            <td>@product.ProductCategory.Name</td>
+        </tr>
+    }
+
+    </tbody>
+</table>
+<button class="btn btn-info">@Html.ActionLink("Add Customer", "New", "Customer")</button>
+
+
+@*@using (Html.BeginForm("AddProduct", "Product"))
+{
+    <button type="submit" class="btn btn-primary">Save</button>
+}*@
+
+@*<button class="btn btn-primary" onclick="location.href='@Url.Action("AddProduct", "Product")'">Add Product</button>*@

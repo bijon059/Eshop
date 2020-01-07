@@ -1,0 +1,22 @@
+﻿@model E_Shop_Project.Models.User
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h3>@Model.Name</h3>
+<h4>@Model.Address</h4>
+
+<li> Category : @Model.UserCategories.Name</li>
+
+
+<button class="btn btn-primary" onclick="location.href='@Url.Action("ViewProduct", "User")'" , new {name=Model.UserName},null>View Product</button>
+
+@*<button>@Html.ActionLink("Withdraw", "Account", "User", new { name = Model.UserName }, null)</button>
+
+
+<button>@Html.ActionLink("Mini-Statement", "Statement", "User", new { id = Model.Id }, null)</button>*@
+
+@Html.HiddenFor(c=>c.Id)
+

@@ -1,0 +1,249 @@
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.dll.config
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.pdb
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Antlr3.Runtime.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\EntityFramework.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\EntityFramework.SqlServer.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Google.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Newtonsoft.Json.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Owin.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.Helpers.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.Mvc.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.Optimization.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.Razor.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Deployment.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Razor.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\WebGrease.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.Helpers.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.Mvc.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.Optimization.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.Razor.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Deployment.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Razor.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Antlr3.Runtime.pdb
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Newtonsoft.Json.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\EntityFramework.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\EntityFramework.SqlServer.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Google.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.csprojResolveAssemblyReference.cache
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.dll
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.pdb
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.InitiallyAddedUser.resources
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.csproj.GenerateResource.Cache
+c:\users\bijon\documents\visual studio 2013\Projects\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.RenameCategoryId.resources
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.dll.config
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.pdb
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Antlr3.Runtime.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Newtonsoft.Json.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Owin.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Helpers.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Mvc.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Optimization.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Razor.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\WebGrease.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Helpers.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Mvc.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Optimization.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Razor.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Antlr3.Runtime.pdb
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Newtonsoft.Json.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.csprojResolveAssemblyReference.cache
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.InitiallyAddedUser.resources
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.RenameCategoryId.resources
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.csproj.GenerateResource.Cache
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.dll
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.pdb
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletingDataTableForProduct.resources
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.ReaddingUser.resources
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.InitiallyProductAdded.resources
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletedExtraCategoryId.resources
+C:\Users\DDotIT\Downloads\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletedEverything.resources
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.dll.config
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.pdb
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Antlr3.Runtime.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Newtonsoft.Json.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Owin.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Helpers.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Mvc.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Optimization.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Razor.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\WebGrease.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Helpers.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Mvc.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Optimization.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Razor.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Antlr3.Runtime.pdb
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Newtonsoft.Json.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.csprojResolveAssemblyReference.cache
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.InitiallyAddedUser.resources
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.RenameCategoryId.resources
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletingDataTableForProduct.resources
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.ReaddingUser.resources
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.InitiallyProductAdded.resources
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletedExtraCategoryId.resources
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletedEverything.resources
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.csproj.GenerateResource.Cache
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.dll
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.pdb
+C:\Users\bijon\Downloads\Documents\E_Shop_Project2.2\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.AddingEverythingThroughUser.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.dll.config
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\E_Shop_Project.pdb
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Antlr3.Runtime.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Newtonsoft.Json.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Owin.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Helpers.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Mvc.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Optimization.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Razor.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\WebGrease.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Helpers.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Mvc.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Optimization.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.Razor.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Antlr3.Runtime.pdb
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Newtonsoft.Json.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.csprojResolveAssemblyReference.cache
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.InitiallyAddedUser.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.RenameCategoryId.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletingDataTableForProduct.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.ReaddingUser.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.InitiallyProductAdded.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletedExtraCategoryId.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.DeletedEverything.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.Migrations.AddingEverythingThroughUser.resources
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.csproj.GenerateResource.Cache
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.dll
+C:\Users\DDotIT\Downloads\Bijon\E_Shop_Project2.2.01\E_Shop_Project\E_Shop_Project\E_Shop_Project\obj\Debug\E_Shop_Project.pdb

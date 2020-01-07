@@ -1,0 +1,41 @@
+﻿@model E_Shop_Project.ViewModels.UserFormViewModel
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Register First</h2>
+
+@using (Html.BeginForm("Save", "User"))
+{
+    <div class="form-group">
+        @Html.LabelFor(c => c.User.Name)
+        @Html.TextBoxFor(c => c.User.Name, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.User.UserName)
+        @Html.TextBoxFor(c => c.User.UserName, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.User.Password)
+        @Html.TextBoxFor(c => c.User.Password, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.User.Address)
+        @Html.TextBoxFor(c => c.User.Address, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(c=>c.User.UserCategoryId)
+        @Html.DropDownListFor(c => c.User.UserCategoryId,new SelectList(Model.UserCategories,"Id","Name"),"Select User Type", new {@class = "form-control"})
+
+        
+    </div>
+    @Html.HiddenFor(c => c.User.ErrorloginAtempt)
+    @Html.HiddenFor(c => c.User.Id)
+
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
